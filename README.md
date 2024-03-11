@@ -4,5 +4,6 @@ This **Profile Card** is a simple representation of an individual's profile info
 
 
 **Preview:**
-
-![](https://github.com/luisandrelemos/Simple-Profile-Card/blob/main/CardPreview.gif)
+<p align="center">
+<img src=https://github.com/luisandrelemos/Simple-Profile-Card/blob/main/CardPreview.gif
+</p>
